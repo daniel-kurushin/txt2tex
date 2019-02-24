@@ -5,7 +5,7 @@ Created on Sun Feb 24 18:12:39 2019
 
 @author: dan
 """
-from sys import argv
+from my_sys import argv
 
 if __name__ == "__main__":
     try:
