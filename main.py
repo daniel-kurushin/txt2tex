@@ -7,6 +7,8 @@ Created on Sun Feb 24 18:12:39 2019
 """
 from my_sys import argv
 from files import loadFile, saveFile
+from parse import getStructure, generateTex
+
 if __name__ == "__main__":
     try:
         inp = argv[1]
